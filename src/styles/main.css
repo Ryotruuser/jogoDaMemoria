@@ -58,6 +58,7 @@ h2{
 }
 
 .item{
+    cursor: pointer;
     position: relative;
     width: 100px;
     height: 100px;
